@@ -7,6 +7,7 @@ export default function Home() {
         <h1 className="relative z-10 text-black text-3xl">Home</h1>
       </div>
       <Link href="/posts">Posts</Link>
+      <Link href="/accounts">Accounts</Link>
     </main>
   );
 }
